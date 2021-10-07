@@ -6,7 +6,7 @@
         "php": ">=7.3.24"
     },
     "provide": {
-        "ext-mcrypt": "*",
+        "ext-mcrypt": "*"
     },
     "autoload": {
         "psr-4": {
