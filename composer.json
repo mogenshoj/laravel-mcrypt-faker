@@ -1,5 +1,5 @@
 {
-    "name": "thomaswelton/laravel-mcrypt-faker",
+    "name": "mogenshoj/laravel-mcrypt-faker",
     "description": "Allows installation of Laravel where the PHP Mcrypt extension is not available. Provides encryption using OpenSSL, or by disabling encryption entierly.",
     "keywords": ["laravel", "mcrypt", "hack", "encryption"],
     "require": {
