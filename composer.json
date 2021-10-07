@@ -3,12 +3,10 @@
     "description": "Allows installation of Laravel where the PHP Mcrypt extension is not available. Provides encryption using OpenSSL, or by disabling encryption entierly.",
     "keywords": ["laravel", "mcrypt", "hack", "encryption"],
     "require": {
-        "php": ">=7.3.24",
-        "defuse/php-encryption": "~1.2"
+        "php": ">=7.3.24"
     },
     "provide": {
         "ext-mcrypt": "*",
-        "ext-openssl": "*"
     },
     "autoload": {
         "psr-4": {
